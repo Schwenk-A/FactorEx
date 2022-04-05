@@ -1,0 +1,16 @@
+C:\Users\Andrea\source\repos\FactoryEx\FactoryEx\bin\Debug\net5.0\FactoryEx.exe
+C:\Users\Andrea\source\repos\FactoryEx\FactoryEx\bin\Debug\net5.0\FactoryEx.deps.json
+C:\Users\Andrea\source\repos\FactoryEx\FactoryEx\bin\Debug\net5.0\FactoryEx.runtimeconfig.json
+C:\Users\Andrea\source\repos\FactoryEx\FactoryEx\bin\Debug\net5.0\FactoryEx.runtimeconfig.dev.json
+C:\Users\Andrea\source\repos\FactoryEx\FactoryEx\bin\Debug\net5.0\FactoryEx.dll
+C:\Users\Andrea\source\repos\FactoryEx\FactoryEx\bin\Debug\net5.0\FactoryEx.pdb
+C:\Users\Andrea\source\repos\FactoryEx\FactoryEx\obj\Debug\net5.0\FactoryEx.csproj.AssemblyReference.cache
+C:\Users\Andrea\source\repos\FactoryEx\FactoryEx\obj\Debug\net5.0\FactoryEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\source\repos\FactoryEx\FactoryEx\obj\Debug\net5.0\FactoryEx.AssemblyInfoInputs.cache
+C:\Users\Andrea\source\repos\FactoryEx\FactoryEx\obj\Debug\net5.0\FactoryEx.AssemblyInfo.cs
+C:\Users\Andrea\source\repos\FactoryEx\FactoryEx\obj\Debug\net5.0\FactoryEx.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\source\repos\FactoryEx\FactoryEx\obj\Debug\net5.0\FactoryEx.dll
+C:\Users\Andrea\source\repos\FactoryEx\FactoryEx\obj\Debug\net5.0\refint\FactoryEx.dll
+C:\Users\Andrea\source\repos\FactoryEx\FactoryEx\obj\Debug\net5.0\FactoryEx.pdb
+C:\Users\Andrea\source\repos\FactoryEx\FactoryEx\obj\Debug\net5.0\FactoryEx.genruntimeconfig.cache
+C:\Users\Andrea\source\repos\FactoryEx\FactoryEx\obj\Debug\net5.0\ref\FactoryEx.dll
